@@ -8,3 +8,4 @@ skyseg.onnx
 logs/
 *.safetensors
 *.ckpt
+output
